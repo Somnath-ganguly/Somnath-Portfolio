@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 180" role="img" aria-labelledby="title desc">
+  <title id="title">Somnath Ganguly logo</title>
+  <desc id="desc">A minimal white SG monogram</desc>
+  <path fill="#fff" d="M145 20H55c-27 0-45 18-45 40s18 40 45 40h58c12 0 20 7 20 16s-8 16-20 16H27L8 156h85c29 0 48-17 48-40s-19-40-48-40H45c-10 0-17-6-17-16s7-16 17-16h82c13 0 24-5 33-15z"/>
+  <path fill="#fff" d="M203 20c-43 0-73 29-73 70s30 70 73 70h24c31 0 54-17 54-45V77h-75c-12 0-21 8-21 19h48v19c0 11-10 21-27 21h-3c-25 0-42-17-42-46s17-46 42-46h56c12 0 23-5 29-15l6-9z"/>
+</svg>
